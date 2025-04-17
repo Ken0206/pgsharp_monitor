@@ -17,7 +17,7 @@
   - 使用 LINE Messaging API 取代即將停用的 LINE Notify。
   - 需要 `CHANNEL_ACCESS_TOKEN` 和 `TARGET_USER_ID`。
 - **日誌記錄**：
-  - 記錄執行過程至 `/volume1/homes/ken/git/python3/PGSharp/pgsharp_monitor_log.txt`。
+  - 記錄執行過程至 `/volume1/homes/ken/git/python3/PGSharp/pgsharp_monitor.log`。
 
 ## 3. 環境配置
 - **Python 路徑**：`/bin/python3`
